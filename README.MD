@@ -2,6 +2,7 @@ This is a markdown file
 This file will demonstrate versioning with git
 This is class 16
 I printed my first commit log
-New Era class 16 is so awesome
 I love Moses
-
+Today 3rd June - Added a clculator shel script
+To run calculator, change the permission to executable using the comand "chmod 777 calc.sh"
+To execute use the command "./calc.sh"
